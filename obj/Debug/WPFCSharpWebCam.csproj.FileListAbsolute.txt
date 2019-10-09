@@ -1,0 +1,16 @@
+C:\Users\ADICHAN\Downloads\easywebcam\sourceCode\sourceCode\EasyWebCam\WPFCSharpWebCam\obj\Debug\WPFCSharpWebCam.csprojAssemblyReference.cache
+C:\Users\ADICHAN\Downloads\easywebcam\sourceCode\sourceCode\EasyWebCam\WPFCSharpWebCam\obj\Debug\Window1.baml
+C:\Users\ADICHAN\Downloads\easywebcam\sourceCode\sourceCode\EasyWebCam\WPFCSharpWebCam\obj\Debug\Window1.g.cs
+C:\Users\ADICHAN\Downloads\easywebcam\sourceCode\sourceCode\EasyWebCam\WPFCSharpWebCam\obj\Debug\App.g.cs
+C:\Users\ADICHAN\Downloads\easywebcam\sourceCode\sourceCode\EasyWebCam\WPFCSharpWebCam\obj\Debug\WPFCSharpWebCam_MarkupCompile.cache
+C:\Users\ADICHAN\Downloads\easywebcam\sourceCode\sourceCode\EasyWebCam\WPFCSharpWebCam\obj\Debug\WPFCSharpWebCam.g.resources
+C:\Users\ADICHAN\Downloads\easywebcam\sourceCode\sourceCode\EasyWebCam\WPFCSharpWebCam\obj\Debug\WPFCSharpWebCam.Properties.Resources.resources
+C:\Users\ADICHAN\Downloads\easywebcam\sourceCode\sourceCode\EasyWebCam\WPFCSharpWebCam\obj\Debug\WPFCSharpWebCam.csproj.GenerateResource.cache
+C:\Users\ADICHAN\Downloads\easywebcam\sourceCode\sourceCode\EasyWebCam\WPFCSharpWebCam\obj\Debug\WPFCSharpWebCam.csproj.CoreCompileInputs.cache
+C:\Users\ADICHAN\Downloads\easywebcam\sourceCode\sourceCode\EasyWebCam\WPFCSharpWebCam\bin\Debug\WPFCSharpWebCam.exe
+C:\Users\ADICHAN\Downloads\easywebcam\sourceCode\sourceCode\EasyWebCam\WPFCSharpWebCam\bin\Debug\WPFCSharpWebCam.pdb
+C:\Users\ADICHAN\Downloads\easywebcam\sourceCode\sourceCode\EasyWebCam\WPFCSharpWebCam\bin\Debug\WebCam_Capture.dll
+C:\Users\ADICHAN\Downloads\easywebcam\sourceCode\sourceCode\EasyWebCam\WPFCSharpWebCam\obj\Debug\WPFCSharpWebCam_Content.g.cs
+C:\Users\ADICHAN\Downloads\easywebcam\sourceCode\sourceCode\EasyWebCam\WPFCSharpWebCam\obj\Debug\WPFCSharpWebCam.csproj.CopyComplete
+C:\Users\ADICHAN\Downloads\easywebcam\sourceCode\sourceCode\EasyWebCam\WPFCSharpWebCam\obj\Debug\WPFCSharpWebCam.exe
+C:\Users\ADICHAN\Downloads\easywebcam\sourceCode\sourceCode\EasyWebCam\WPFCSharpWebCam\obj\Debug\WPFCSharpWebCam.pdb
